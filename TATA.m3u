@@ -1,7 +1,7 @@
 #EXTM3U yeu thich
  
 #EXTINF:-1 tvg-logo="http://thvl.vn/wp-content/themes/VN-News/img/tv-online/thvl-1.gif",Vinh Long 1
-http://htv.live.cdn.fptplay.net/htvonline/vinhlong1.480p.stream/chunklist.m3u8?st=r18NXXVs-o1tRKd0bQMHLg&e=1478985399
+http://thvllive.bb87e240.cdnviet.com/c696fab0edec9ecde5f8a5dff9298dda1478968954/thvl1hd.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="http://thvl.vn/wp-content/themes/VN-News/img/tv-online/thvl-2.gif",Vinh long 2
 http://htvmoblive.1c656bad.cdnviet.com/b539731a7afa186400490fed5194cac81478959671/vinhlong2.480p.stream/playlist.m3u8
