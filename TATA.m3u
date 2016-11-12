@@ -1,26 +1,17 @@
 #EXTM3U yeu thich
  
-#EXTINF:-1, THVL1
+#EXTINF:-1, THVL 1
 http://live.cdn.mobifonetv.vn/motv/vinhlong1_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1, THVL2.2
+#EXTINF:-1, THVL 2
 http://thvllive.bb87e240.cdnviet.com/c723fd1fc2691586b3aede24bdb669461478936962/thvl2/chunklist.m3u8
 #EXTINF:-1, CAN THO
 http://htvlive.1c656bad.cdnviet.com/63d704b861d36bf849a5f7e51ef559b61478971252/can_tho.360p.stream/chunklist.m3u8
 #EXTINF:-1, LONG AN
 http://htvlive.1c656bad.cdnviet.com/3360deef13cc22327a8bfbc38a54a9a41478971709/longan.360p.stream/chunklist.m3u8
-
 #EXTINF:-1, DU LICH CS
 http://htvlive.1c656bad.cdnviet.com/4752e4125d9e420a6705bdeb735ffd9e1478964288/htvcdulich.1080p.stream/chunklist.m3u8
 #EXTINF:-1, PHU NU
 http://htvlive.1c656bad.cdnviet.com/bd88cabdf8e1857b3704c9889d2f7c961478964415/htvcphunu.1080p.stream/chunklist.m3u8
-#EXTINF:-1, TIEN GIANG-tk
-http://123.30.185.126/hls/tiengiang.m3u8?token=jzxv56c6jDZEvGVuDdgtrX0MKoVhFErCy9cd9v8zaBorI2WqXoG99BuM8KhMM8AoPH4Pwg6CvBXl2VWI8gncb0IFFP61DFx2W5KZ3gfuHcZzWqn465teAG53HyxuSCcAdPSzWf08YlG
-#EXTINF:-1, BINH PHUOC 1-TK
-http://118.69.197.145/hls/bptv1.m3u8?token=xevvfygfCoBYFovDABH0t7ynYaHGKPdYvYhrdzDdnuBArBXSfM18Dq208nKt9b0w0njzVghu17Pl2rSF4X3HMH5xxeF43Da2Cgr89SKXEAI6elb5xc6ZWG8Z1G3Pwg6YaVyIyZKDqlc
-#EXTINF:-1, HTV9-tk
-http://123.29.68.44/live.m3u8?c=vstv009&q=medium&type=tv&token=-Ae8aRmeHSL1XuzqnElTkg&time=1479009690&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1478923290047&pkg=pkg4
-#EXTINF:-1, HTV7-tk
-http://123.29.68.44/live.m3u8?c=vstv015&q=medium&type=tv&token=YT7cd-ZYera9kj7PFPzE4w&time=1479009730&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1478923330761&pkg=pkg4
 #EXTINF:-1, TODAYTV
 http://103.21.148.45:81/icomchannelvtc/smil:vtc7_fu.smil/chunklist_b928000_sleng.m3u8
 #EXTINF:-1, LETS VIET
