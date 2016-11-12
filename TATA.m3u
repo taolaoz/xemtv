@@ -8,6 +8,9 @@ http://thvllive.bb87e240.cdnviet.com/ad774e00f54793648c93529d89cf88331478932277/
 http://thvllive.bb87e240.cdnviet.com/671e1cdc8641e03aa10f2be605acc3761478932682/thvl2/chunklist.m3u8
 #EXTINF:-1, THVL2.2
 http://thvllive.bb87e240.cdnviet.com/c723fd1fc2691586b3aede24bdb669461478936962/thvl2/chunklist.m3u8
+#EXTINF:-1, CAN THO
+http://htvlive.1c656bad.cdnviet.com/63d704b861d36bf849a5f7e51ef559b61478971252/can_tho.360p.stream/chunklist.m3u8
+
 #EXTINF:-1, VTV1HD-tk
 http://123.30.238.109/live/_definst_/vtv1-high.m3u8?t=1299cf5fbcfd29c841bd03b4c472abe3&e=1478930741
 #EXTINF:-1, DU LICH CS
