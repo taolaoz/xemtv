@@ -3,7 +3,7 @@
 #EXTINF:-1, THVL1
 http://thvllive.bb87e240.cdnviet.com/ad774e00f54793648c93529d89cf88331478932277/thvl1hd.smil/chunklist_b2500000.m3u8
 #EXTINF:-1, THVL1.2
-http://thvllive.bb87e240.cdnviet.com/ad774e00f54793648c93529d89cf88331478932277/thvl1hd.smil/chunklist_b1500000.m3u8
+udp://@225.1.1.25:30120
 
 
 #EXTINF:-1, THVL2
