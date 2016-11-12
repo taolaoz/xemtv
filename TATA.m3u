@@ -3,7 +3,7 @@
 #EXTINF:-1, THVL1
 http://thvllive.bb87e240.cdnviet.com/ad774e00f54793648c93529d89cf88331478932277/thvl1hd.smil/chunklist_b2500000.m3u8
 #EXTINF:-1, THVL1.2
-http://thvllive.bb87e240.cdnviet.com/ea9e27e7c170a95b60bf3b296cf3d3121478953151/thvl1hd.smil/chunklist_b2500000.m3u8
+rtmp://66.90.93.26:1935/live?9E8gkL1rgwvaooW0zVlpCkNXjCVKgkvQ<playpath>live_mega_kids <swfUrl>http://vaughnlive.tv/4436546790/swf/VaughnSoftPlayer.swf <pageUrl>http://vaughnlive.tv/embed/video/mega_kids?autoplay=true <objectEncoding>
 
 
 #EXTINF:-1, THVL2
