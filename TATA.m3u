@@ -33,3 +33,5 @@ http://123.29.68.44/live.m3u8?c=vstv015&q=medium&type=tv&token=YT7cd-ZYera9kj7PF
 http://103.21.148.45:81/icomchannelvtc/smil:vtc7_fu.smil/chunklist_b928000_sleng.m3u8
 #EXTINF:-1, LETS VIET
 http://103.21.148.45:81/icomchannelvtc/smil:vtc9_ad.smil/chunklist_b928000_sleng.m3u8
+#EXTINF:-1, THUAN VIET HD
+http://htv.live.cdn.fptplay.net/htvonline/thuanviet.720p.stream/chunklist.m3u8?st=d_0zcpHl9-X4yFUhsRpC-A&e=1478957613
