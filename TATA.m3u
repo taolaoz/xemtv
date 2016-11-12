@@ -1,8 +1,8 @@
 #EXTM3U yeu thich
  
-#EXTINF:-1 tvg-logo="https://s22.postimg.org/5ttiwxlip/vinhlong1.png",Vinh Long 1
-http://localhost:9991/htv?thvl1-vinh-long-36326E61
-tvg-logo="http://www.vtvcab.vn/Uploaded/nguyenanh/2014_03_04/thvl2.png",Vinh long 2
+#EXTINF:-1 tvg-logo="http://thvl.vn/wp-content/themes/VN-News/img/tv-online/thvl-1.gif",Vinh Long 1
+
+#EXTINF:-1 tvg-logo="http://thvl.vn/wp-content/themes/VN-News/img/tv-online/thvl-2.gif",Vinh long 2
 http://htvmoblive.1c656bad.cdnviet.com/b539731a7afa186400490fed5194cac81478959671/vinhlong2.480p.stream/playlist.m3u8
 #EXTINF:-1, CAN THO
 http://htvlive.1c656bad.cdnviet.com/63d704b861d36bf849a5f7e51ef559b61478971252/can_tho.360p.stream/chunklist.m3u8
