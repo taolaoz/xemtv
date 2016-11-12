@@ -1,11 +1,7 @@
 #EXTM3U yeu thich
  
 #EXTINF:-1, THVL1
-http://thvllive.bb87e240.cdnviet.com/ad774e00f54793648c93529d89cf88331478932277/thvl1hd.smil/chunklist_b2500000.m3u8
-#EXTINF:-1, THVL1.2
-http://htv.live.cdn.fptplay.net/htvonline/vinhlong1.480p.stream/chunklist.m3u8?st=QFibhFZ28fWC29bdHwGH6w&e=1478981116
-#EXTINF:-1, THVL2
-http://thvllive.bb87e240.cdnviet.com/671e1cdc8641e03aa10f2be605acc3761478932682/thvl2/chunklist.m3u8
+http://live.cdn.mobifonetv.vn/motv/vinhlong1_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1, THVL2.2
 http://thvllive.bb87e240.cdnviet.com/c723fd1fc2691586b3aede24bdb669461478936962/thvl2/chunklist.m3u8
 #EXTINF:-1, CAN THO
