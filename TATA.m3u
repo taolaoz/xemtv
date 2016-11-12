@@ -3,7 +3,7 @@
 #EXTINF:-1, THVL 1
 http://live.cdn.mobifonetv.vn/motv/vinhlong1_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1, THVL 2
-http://thvllive.bb87e240.cdnviet.com/c723fd1fc2691586b3aede24bdb669461478936962/thvl2/chunklist.m3u8
+http://htvmoblive.1c656bad.cdnviet.com/b539731a7afa186400490fed5194cac81478959671/vinhlong2.480p.stream/playlist.m3u8
 #EXTINF:-1, CAN THO
 http://htvlive.1c656bad.cdnviet.com/63d704b861d36bf849a5f7e51ef559b61478971252/can_tho.360p.stream/chunklist.m3u8
 #EXTINF:-1, LONG AN
@@ -12,9 +12,9 @@ http://htvlive.1c656bad.cdnviet.com/3360deef13cc22327a8bfbc38a54a9a41478971709/l
 http://htvlive.1c656bad.cdnviet.com/4752e4125d9e420a6705bdeb735ffd9e1478964288/htvcdulich.1080p.stream/chunklist.m3u8
 #EXTINF:-1, PHU NU
 http://htvlive.1c656bad.cdnviet.com/bd88cabdf8e1857b3704c9889d2f7c961478964415/htvcphunu.1080p.stream/chunklist.m3u8
-#EXTINF:-1, TODAYTV
-http://103.21.148.45:81/icomchannelvtc/smil:vtc7_fu.smil/chunklist_b928000_sleng.m3u8
-#EXTINF:-1, LETS VIET
-http://103.21.148.45:81/icomchannelvtc/smil:vtc9_ad.smil/chunklist_b928000_sleng.m3u8
-#EXTINF:-1, THUAN VIET HD
-http://htv.live.cdn.fptplay.net/htvonline/thuanviet.720p.stream/chunklist.m3u8?st=d_0zcpHl9-X4yFUhsRpC-A&e=1478957613
+#EXTINF:-1  tvg-logo="http://tms.com.vn/upload/logoHTVOnline.jpg",HTV7 HD
+http://htvmoblive.1c656bad.cdnviet.com/9ac800a0ce93fa1fe8fd3bb57ef3978b1478959671/htv7.720p.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tms.com.vn/upload/logoHTVOnline.jpg",HTV9 HD
+http://htvmoblive.1c656bad.cdnviet.com/0091efd145d1e0068a0a9a41b801dc571478959671/htv9.720p.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://img.htvonline.com.vn/livetv/27012014/htvc_movie_50151388139835_80281390814952.png",HTV PHIM
+http://htvmoblive.1c656bad.cdnviet.com/b29e30bcb521f7a47cd09be4211160581478959671/htvc_movies.720p.stream/playlist.m3u8
